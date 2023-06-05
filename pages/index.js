@@ -61,15 +61,12 @@ export default function Home() {
            <h2>Trial Blogs</h2>
            <div className='blogItem'> 
             <h3> Learning Javascript</h3>
-            <p>Javascript is programming language used to design logic for the web </p>
            </div>
            <div className='blogItem'>
-            <h3> Learning Javascript</h3>
-            <p>Javascript is programming language used to design logic for the web </p>
+            <h3>  How does Javascript work?</h3>
            </div>
            <div className='blogItem'>
-            <h3> Learning Javascript</h3>
-            <p>Javascript is programming language used to design logic for the web </p>
+            <h3>Why Javascript?</h3>
            </div>
           
           <a
